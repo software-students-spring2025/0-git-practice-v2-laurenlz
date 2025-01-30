@@ -5,3 +5,5 @@ Article link: [Career Crush: What Is It Like to Be a Software Engineer?](https:/
 This article is an interview that discusses pursuing a career as a software engineer.
 I found it particularly relatable since the interviewee also started college being completely new to coding!
 This article goes into detail about a complete journey from freshman in college with zero experience, applying for jobs, interning, and finally to becoming a full time SWE. Some tips that apply to me most right now include how to prepare for tech interviews and how to land return offers at internships, but there's something in here for aspiring SWE's at every part of their journeys.
+
+Jinzhi Cao "eth3r3aI": I agree with your comment. Your comment is really meaningful and thoughtful.
